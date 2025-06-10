@@ -1,2 +1,2 @@
-# AI_Boot_June25
+# AI_Bootcamp_June25
 This is for AI Bootcamp 
